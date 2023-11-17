@@ -11,10 +11,10 @@ class fxUpdater_comopipeline_Updater{
 	public function __construct() {
 		/* Updater Config */
 		$this->config = array(
-			'server'  => 'https://wordpress.comocreative.com/',
+			'server'  => 'https://comocreative.com/',
 			'type'    => 'plugin',
 			'id'      => 'como-pipeline/como-pipeline.php', 
-			'api'     => '1.3.7',
+			'api'     => '1.3.9',
 			'post'    => array(),
 		);
 		/* Admin Init */

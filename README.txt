@@ -45,3 +45,5 @@ Plugin to enable Development Pipeline Charts
 1.3.5 - Added Category and Method taxonomies
 1.3.6 - Updated taxonomies to not be publicly queriable
 1.3.7 - Fixed Trial-Logo missing field error
+1.3.8 - Step 1 of moving Repository
+1.3.9 - Step 1 of moving Repository

@@ -9,7 +9,7 @@
  * Plugin Name: 		Como Pipeline
  * Plugin URI: 			https://wordpress.comocreative.com/
  * Description: 		Used to add Pipeline Charts to websites
- * Version: 			1.3.7
+ * Version: 			1.3.9
  * Author: 				Como Creative LLC
  * Author URI: 			https://comocreative.com
  * License: 			GPL-2.0+
